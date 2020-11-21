@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tgyasunie.github.io</id>
     <title>Ts_home</title>
-    <updated>2020-11-21T06:56:38.700Z</updated>
+    <updated>2020-11-21T08:09:40.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tgyasunie.github.io"/>
     <link rel="self" href="https://tgyasunie.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://tgyasunie.github.io/images/avatar.png</logo>
     <icon>https://tgyasunie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ts_home</rights>
+    <entry>
+        <title type="html"><![CDATA[无感之感]]></title>
+        <id>https://tgyasunie.github.io/post/wu-gan-zhi-gan/</id>
+        <link href="https://tgyasunie.github.io/post/wu-gan-zhi-gan/">
+        </link>
+        <updated>2020-11-21T07:04:59.000Z</updated>
+        <content type="html"><![CDATA[<p>2020年11月21日早。<br>
+莫名其妙又想笑又想哭，而且是同时的。<br>
+数学班十几化学班一。<br>
+某不知名学科班五年段一百开外就离谱。<br>
+又想哭又想笑那会儿真的担心自己要疯掉了，就像很早很早以前六年级时那样。<br>
+时隔三年多，还是无法改变。甚至更不想改变了。<br>
+略微有点呼吸困难，呼吸的时候，感觉心脏也在一起呼吸。奇怪的感觉。<br>
+于是我又想起了她，而她也有自己的事要做。<br>
+数竞在四楼化竞在三楼，今天早上去三楼等了五分钟，看到班里去化竞的同学才发现不对，差点迟到。<br>
+数学真是个治人矫情的良药。<br>
+虽然奇怪的感觉没有完全消除，但是总归也好了一些。至少我现在基本上是正常的。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SILENCE?]]></title>
         <id>https://tgyasunie.github.io/post/silence/</id>

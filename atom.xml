@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tgyasunie.github.io</id>
     <title>Ts_home</title>
-    <updated>2021-04-02T23:21:04.193Z</updated>
+    <updated>2021-04-04T01:53:55.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tgyasunie.github.io"/>
     <link rel="self" href="https://tgyasunie.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://tgyasunie.github.io/images/avatar.png</logo>
     <icon>https://tgyasunie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Ts_home</rights>
+    <entry>
+        <title type="html"><![CDATA[天赋]]></title>
+        <id>https://tgyasunie.github.io/post/tian-fu/</id>
+        <link href="https://tgyasunie.github.io/post/tian-fu/">
+        </link>
+        <updated>2021-04-04T01:30:56.000Z</updated>
+        <content type="html"><![CDATA[<p>悲伤地发现我的天赋并不在数理化，当然更不在政史地生。<br>
+我更擅长和语言文字有关的东西。<br>
+我感觉它们是活的。<br>
+但是当我看英语书上的词汇部分，甚至是维克多时，我感觉它们丝毫没有生气。<br>
+只有看特别厚的那本我甚至叫不出是牛津什么词典的时候，我才感觉它们是活的。<br>
+它们有自己的性格。意思向着各个方向延伸。<br>
+汉语更是如此。现代汉语词典。家里没有《辞海》，这本词典也够了。<br>
+比不上牛津什么的词典的就是颜色太单调了，全部都是黑的。<br>
+但是并不妨碍它们看起来是活的。<br>
+但学习数理化的理智告诉我它们是死的。<br>
+但是这并不妨碍学习语言的感性理解告诉我它们就是活的。<br>
+说实话我还是更喜欢现代汉语词典。只是它被我翻得太多，新鲜感略逊于牛津什么词典。<br>
+想吐槽一下这个字数-阅读时间换算机制。<br>
+这玩意真的需要读一分钟吗？最多半分钟。<br>
+如果是我手写的还说不定。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最终的礼物]]></title>
         <id>https://tgyasunie.github.io/post/zui-zhong-de-li-wu/</id>

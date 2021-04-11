@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tgyasunie.github.io</id>
     <title>Ts_home</title>
-    <updated>2021-04-04T03:16:36.089Z</updated>
+    <updated>2021-04-11T05:09:12.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tgyasunie.github.io"/>
     <link rel="self" href="https://tgyasunie.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://tgyasunie.github.io/images/avatar.png</logo>
     <icon>https://tgyasunie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Ts_home</rights>
+    <entry>
+        <title type="html"><![CDATA[情感有什么用]]></title>
+        <id>https://tgyasunie.github.io/post/qing-gan-you-shi-me-yong/</id>
+        <link href="https://tgyasunie.github.io/post/qing-gan-you-shi-me-yong/">
+        </link>
+        <updated>2021-04-11T05:07:26.000Z</updated>
+        <content type="html"><![CDATA[<p>通过十年的学习，我发现自己并没有什么异于其他人的才能。<br>
+除了我还维系着些与他人的关系以外，没有任何作用。<br>
+如果没有情感我就应该就地自杀。<br>
+这还能为国家提高点儿人均GDP。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天赋]]></title>
         <id>https://tgyasunie.github.io/post/tian-fu/</id>
